@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-^6i@sem7_z6jsq+45#-z!u!t3le9!c%hzcusrtp5x0z!hms1t&
 DEBUG = True #jak skonczysz produkcje to zmieniasz na False
 
 
-ALLOWED_HOSTS = ['127.0.0.1','pythonanywhere.com', 'nieprzytomny.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','pythonanywhere.com', 'nieprzytomny.pythonanywhere.com','https://nieprzytomny.pythonanywhere.com']
 
 
 # Application definition
